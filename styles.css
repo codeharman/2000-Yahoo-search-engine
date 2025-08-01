@@ -1,0 +1,24 @@
+.search-box {
+  display: flex;
+  justify-content: center;
+  }
+
+.Search {
+  background-color: #f0f0f0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 1px solid black;
+  margin-top: 0px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.background {
+  background-color: blueviolet;
+}
