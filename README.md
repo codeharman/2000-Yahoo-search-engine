@@ -2,6 +2,8 @@
 
 A simple front-end clone of Yahoo's search homepage using HTML and CSS.
 
+[Click here to visit](https://yahoo-searchengine.vercel.app/)
+
 ## 🚀 Features
 
 - Responsive layout using Flexbox
